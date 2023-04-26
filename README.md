@@ -20,7 +20,7 @@ The programs were developed in the following environment. python : 3.8.3.final.0
 
 *** All preliminary data requred are uploaded at https://drive.google.com/drive/u/1/folders/1KD69lBFJ0qtDojza1pwyJco6rniizsD6
 
-If you need any futher help please contact Dr. Dukka B. KC at dbkc@mtu.edu.
+If you need any futher help please contact Dr. Subash Chandra Pakhrin at pakhrins@uhd.edu or Dr. Dukka B. KC at dbkc@mtu.edu.
 
 
 
